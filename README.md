@@ -1,6 +1,8 @@
-# Color Generator
+# Color Generator App
 
--## https://6241778604b9f000084cf88a--playful-squirrel-582942.netlify.app
+## Netlify App :
+
+- ## https://6241778604b9f000084cf88a--playful-squirrel-582942.netlify.app
 
 ![](https://i.hizliresim.com/trgqetz.PNG)
 
